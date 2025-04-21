@@ -310,63 +310,54 @@ This is the complete Tavrik language dictionary, containing over 800 words and p
 - Senta — Dance  
 - Melka — Song  
 - Venti — Music  
-- Prita — Draw  
+- Prita — Raw  
 - Glanta — Paint  
 - Zepra — Create  
 - Flarta — Fun  
 - Plenko — Joke
 - 15. Technology / Devices
-	•	Zenta — Computer
-	•	Nokra — Phone
-	•	Farka — Screen
-	•	Plinto — Keyboard
-	•	Xura — Mouse
-	•	Triko — Cable
-	•	Jenta — App
-	•	Yelto — Internet
-	•	Broka — Camera
-	•	Senta — Charge
-	•	Gluxa — Battery
-	•	Merta — Signal
-
-⸻
-
+Zenta — Computer
+Nokra — Phone
+Farka — Screen
+Plinto — Keyboard
+Xura — Mouse
+Triko — Cable
+Jenta — App
+Yelto — Internet
+Broka — Camera
+Senta — Charge
+Gluxa — Battery
+Merta — Signal
 16. Feelings / States
-	•	Roka — Hungry
-	•	Jemu — Thirsty
-	•	Sinta — Cold
-	•	Fura — Hot
-	•	Telra — Comfortable
-	•	Vuno — Uncomfortable
-	•	Xelta — Sleepy
-	•	Grepa — Nervous
-	•	Dento — Sick
-	•	Morka — Better
-	•	Trufa — Worse
-
-⸻
-
+17. Roka — Hungry
+Jemu — Thirsty
+Sinta — Cold
+Fura — Hot
+Telra — Comfortable
+Vuno — Uncomfortable
+Xelta — Sleepy
+Grepa — Nervous
+Dento — Sick
+Morka — Better
+Trufa — Worse
 17. Food / Drink
-	•	Joma — Food
-	•	Velta — Drink
-	•	Fruko — Fruit
-	•	Lenta — Bread
-	•	Porka — Meat
-	•	Solta — Soup
-	•	Trima — Juice
-	•	Kelta — Water
-	•	Zoma — Tea
-	•	Renta — Coffee
-	•	Xurka — Sweet
-	•	Jalka — Bitter
-	•	Sorka — Salt
-
-⸻
-
+Joma — Food
+Velta — Drink
+Fruko — Fruit
+Lenta — Bread
+Porka — Meat
+Solta — Soup
+Trima — Juice
+Kelta — Water
+Zoma — Tea
+Renta — Coffee
+Xurka — Sweet
+Jalka — Bitter
+Sorka — Salt
 18. Weather / Climate
-	•	Zenta — Weather
-	•	Xulo — Hot
-	•	Brava — Cold
+Zenta — Weather
+Xulo — Hot
+Brava — Cold
 	•	Ginta — Windy
 	•	Senta — Snowy
 	•	Glora — Rainy
