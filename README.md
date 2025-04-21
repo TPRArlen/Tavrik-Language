@@ -314,7 +314,179 @@ This is the complete Tavrik language dictionary, containing over 800 words and p
 - Glanta — Paint  
 - Zepra — Create  
 - Flarta — Fun  
-- Plenko — Joke  
+- Plenko — Joke
+- 15. Technology / Devices
+	•	Zenta — Computer
+	•	Nokra — Phone
+	•	Farka — Screen
+	•	Plinto — Keyboard
+	•	Xura — Mouse
+	•	Triko — Cable
+	•	Jenta — App
+	•	Yelto — Internet
+	•	Broka — Camera
+	•	Senta — Charge
+	•	Gluxa — Battery
+	•	Merta — Signal
+
+⸻
+
+16. Feelings / States
+	•	Roka — Hungry
+	•	Jemu — Thirsty
+	•	Sinta — Cold
+	•	Fura — Hot
+	•	Telra — Comfortable
+	•	Vuno — Uncomfortable
+	•	Xelta — Sleepy
+	•	Grepa — Nervous
+	•	Dento — Sick
+	•	Morka — Better
+	•	Trufa — Worse
+
+⸻
+
+17. Food / Drink
+	•	Joma — Food
+	•	Velta — Drink
+	•	Fruko — Fruit
+	•	Lenta — Bread
+	•	Porka — Meat
+	•	Solta — Soup
+	•	Trima — Juice
+	•	Kelta — Water
+	•	Zoma — Tea
+	•	Renta — Coffee
+	•	Xurka — Sweet
+	•	Jalka — Bitter
+	•	Sorka — Salt
+
+⸻
+
+18. Weather / Climate
+	•	Zenta — Weather
+	•	Xulo — Hot
+	•	Brava — Cold
+	•	Ginta — Windy
+	•	Senta — Snowy
+	•	Glora — Rainy
+	•	Merta — Sunny
+	•	Treva — Cloudy
+	•	Plonka — Storm
+	•	Kulta — Fog
+	•	Zarka — Humid
+
+⸻
+
+19. Directions / Location
+	•	Heta — Left
+	•	Rota — Right
+	•	Fruta — Forward
+	•	Plara — Back
+	•	Tenta — Up
+	•	Derka — Down
+	•	Zorka — Here
+	•	Jenta — There
+	•	Mokta — Far
+	•	Senta — Near
+	•	Glova — Inside
+	•	Xenta — Outside
+
+⸻
+
+20. Family / People
+	•	Matu — Mother
+	•	Fatu — Father
+	•	Bruta — Brother
+	•	Sistra — Sister
+	•	Nento — Child
+	•	Porka — Parent
+	•	Jola — Friend
+	•	Kelra — Enemy
+	•	Lenta — Partner
+	•	Glota — People
+	•	Varta — Person
+	•	Trula — Name
+
+⸻
+
+21. Colors / Shapes
+	•	Reka — Red
+	•	Blua — Blue
+	•	Grina — Green
+	•	Yela — Yellow
+	•	Pruna — Purple
+	•	Ora — Orange
+	•	Blaka — Black
+	•	Wita — White
+	•	Graya — Gray
+	•	Trika — Circle
+	•	Quarka — Square
+	•	Trioka — Triangle
+
+⸻
+
+22. Buildings / Places
+	•	Luma — House
+	•	Jorka — School
+	•	Vemra — Hospital
+	•	Karka — Shop
+	•	Drenta — Street
+	•	Brenta — City
+	•	Plura — Country
+	•	Torka — Village
+	•	Merka — Room
+	•	Pranta — Park
+	•	Zentra — Center
+
+⸻
+
+23. Magic / Fantasy
+	•	Zekra — Magic
+	•	Flura — Spell
+	•	Mentu — Power
+	•	Zolta — Curse
+	•	Shira — Spirit
+	•	Lento — Light
+	•	Draku — Dark
+	•	Varka — Sword
+	•	Plura — Shield
+	•	Renta — Fireball
+	•	Zentu — Portal
+	•	Morka — Summon
+
+⸻
+
+24. War / Conflict
+	•	Jorka — War
+	•	Blenta — Battle
+	•	Krota — Weapon
+	•	Zentu — Gun
+	•	Plura — Armor
+	•	Verta — Enemy
+	•	Jintu — Ally
+	•	Tranta — Attack
+	•	Korma — Defend
+	•	Zarka — Victory
+	•	Xelta — Defeat
+	•	Sorka — Bloodshed
+
+⸻
+
+25. Religion / Beliefs
+	•	Yento — God
+	•	Plarka — Spirit
+	•	Vantu — Soul
+	•	Gralta — Prayer
+	•	Zorka — Church
+	•	Temra — Temple
+	•	Senta — Faith
+	•	Jolka — Blessing
+	•	Farka — Ritual
+	•	Mokra — Sacred
+	•	Shentu — Heaven
+	•	Helra — Hell
+
 
 ---
 
