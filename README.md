@@ -2,7 +2,7 @@
 Constructed language created by TPRArlen
 # Tavrik Language
 # Tavrik Language Dictionary
-
+[Tavrik Language Russian](https://github.com/TPRArlen/your-repository-name/blob/main/Tavrik-Language-russian.md)
 Constructed Language by **TPRArlen**
 
 This is the complete Tavrik language dictionary, containing over 800 words and phrases grouped by themes.
